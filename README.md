@@ -24,8 +24,7 @@ I would like to give credit to my friends Michael Huang, Michael Radar, and Emma
 Please refer to the LICENSE in the repo.
 
 ## Assets
-![alt](./assets/screenshots/Screenshot%202023-03-20%20at%208.16.19%20PM.png)
-
+![alt](./Assets/screenshots/Screenshot%202023-03-20%20at%208.16.19%20PM.png)
 ## Deployed
 
 
