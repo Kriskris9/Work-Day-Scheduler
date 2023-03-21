@@ -11,6 +11,9 @@ N/A
 
 To use this work day scheduler, you can click on one of the time slots and enter any important event or meetings for that time. To save the event, you can click on the save icon button. During the work day, you can tell what time it is based on the color of the slot. Present time slot will be red, past time slot will be grey, and future time slot will be green. You can open and close the application and you will still be able to see the events within each time slot. 
 
+![alt](./Assets/screenshots/Screenshot%202023-03-20%20at%208.31.59%20PM.png)
+
+![alt](./Assets/screenshots/Screenshot%202023-03-20%20at%208.31.46%20PM.png)
 
 ## Credits
 
