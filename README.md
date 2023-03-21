@@ -27,5 +27,6 @@ Please refer to the LICENSE in the repo.
 ![alt](./Assets/screenshots/Screenshot%202023-03-20%20at%208.16.19%20PM.png)
 ## Deployed
 
+https://kriskris9.github.io/Work-Day-Scheduler/
 
 
